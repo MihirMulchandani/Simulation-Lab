@@ -337,7 +337,7 @@ The architecture allows new systems to be added without altering the core interf
 
 <p align="center">
 
-<a href="YOUR_DEPLOYMENT_LINK">
+<a href="">
 <img width="195" height="51" alt="Screenshot from 2026-03-09 16-45-58" src="https://github.com/user-attachments/assets/d22bfa1f-f507-4e59-897a-0db9037541ed" />
 
 </a>
